@@ -1,15 +1,23 @@
-﻿
+
 ---
 title:  "[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!"
 excerpt: "내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!"
 
 categories:
-  - Blog
+
+​	- Blog
+
 tags:
-  - Blog
+
+​	- Blog
+
 ---
 
+
+
 안녕하세요! 갱입니다.
+
+
 
 iOS 개발을 주제로 블로그를 하게 됐습니다. 😆
 
@@ -41,11 +49,15 @@ iOS 13 버전 이전 방법은 많은 타블로그에 작성되어있으니 참�
 
 > iOS Project Start Programmatically
 
+
+
 1. 우선 프로젝트 내에 있는 Main.storyboard 파일을 지워주세요!
 
 ![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w1)
 
 그림 1) Main.storyboard 파일 지우기
+
+
 
 2. 그림 2에 표시되어 있는 부분의 내용을 지워주세요!
 
@@ -123,10 +135,6 @@ scene(_ scene: session: connectionOptions:) 함수에 위와 같은 코드를 �
 
 
 ![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w1)
-
-대표사진 삭제
-
-사진 설명을 입력하세요.
 
 현재 창을 표시하고 같은 수준 이하의 다른 모든 창 앞에 배치하는 메소드입니다!
 
