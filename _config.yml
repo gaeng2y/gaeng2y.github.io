@@ -24,7 +24,7 @@ description              : "디자인과 iOS 개발을 공부하는 사람입니
 url                      : "https://g4eng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "g4eng/g4eng.github.io"
-teaser                   : "/assets/images/memoji.png"
+teaser                   : "git/assets/images/memoji.png"
 logo                     : #"/assets/images/gaeng-removebg.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "GAENG2"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/memoji.png"
   bio              : "디자인과 iOS 개발을 공부하는 사람입니다."
   location         : "Seoul"
   email            :
