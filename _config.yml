@@ -24,8 +24,8 @@ description              : "디자인과 iOS 개발을 공부하는 사람입니
 url                      : "https://g4eng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "g4eng/g4eng.github.io"
-teaser                   : "/assets/images/Macintosh_128k_transparency.png"
-logo                     : "/assets/images/gaeng-removebg.png"
+teaser                   : "/assets/images/memoji.png"
+logo                     : #"/assets/images/gaeng-removebg.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "assets/images/memoji.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
