@@ -3,13 +3,9 @@ title:  "[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보�
 excerpt: "내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!"
 
 categories:
-
 ​	- Blog
-
 tags:
-
 ​	- Blog
-
 ---
 
 
