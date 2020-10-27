@@ -47,7 +47,7 @@ iOS 13 버전 이전 방법은 많은 타블로그에 작성되어있으니 참�
 
 1. 우선 프로젝트 내에 있는 Main.storyboard 파일을 지워주세요!
 
-![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w1)
+![img](http://postfiles4.naver.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w966)
 
 그림 1) Main.storyboard 파일 지우기
 
@@ -57,13 +57,13 @@ iOS 13 버전 이전 방법은 많은 타블로그에 작성되어있으니 참�
 
 
 
-![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMzYg/MDAxNjAyMjUyMzMwNzIy.yjOMCrdXRTzxqYjDfZbrm6-_GtjYLiJ8_IymshxDQ9og.-ukC3WFjGoXuhmLARM5_zSdCMu7an4eXNW8G3NnZxdgg.PNG.fover32/image.png?type=w1)
+![img](http://postfiles4.naver.net/MjAyMDEwMDlfMzYg/MDAxNjAyMjUyMzMwNzIy.yjOMCrdXRTzxqYjDfZbrm6-_GtjYLiJ8_IymshxDQ9og.-ukC3WFjGoXuhmLARM5_zSdCMu7an4eXNW8G3NnZxdgg.PNG.fover32/image.png?type=w966)
 
 그림 2) 삭제 전
 
 
 
-![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMjMz/MDAxNjAyMjUyMzQ5NzY3.goAULD1Fb02XmSxPhi_5-SmFZawC3r1fF4pU2DL1aEsg.fRlt-MPvMamxzNZV-Ae5KTVXmeKlW_lG2QKVt8Pd6_cg.PNG.fover32/image.png?type=w1)
+![img](http://postfiles8.naver.net/MjAyMDEwMDlfMjMz/MDAxNjAyMjUyMzQ5NzY3.goAULD1Fb02XmSxPhi_5-SmFZawC3r1fF4pU2DL1aEsg.fRlt-MPvMamxzNZV-Ae5KTVXmeKlW_lG2QKVt8Pd6_cg.PNG.fover32/image.png?type=w966)
 
 그림 3) 삭제 후
 
@@ -73,7 +73,7 @@ iOS 13 버전 이전 방법은 많은 타블로그에 작성되어있으니 참�
 
 
 
-![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfNCAg/MDAxNjAyMjUyNDUwOTE0.m4SMIt59GAbsDRtK--IZPLAptImpG5zgCEefhXeqCdgg._Kn7ntKHHLIjc6JKH90JbBvkiTuvTdlG4aUubVMOZfwg.PNG.fover32/image.png?type=w1)
+![img](http://postfiles10.naver.net/MjAyMDEwMDlfNCAg/MDAxNjAyMjUyNDUwOTE0.m4SMIt59GAbsDRtK--IZPLAptImpG5zgCEefhXeqCdgg._Kn7ntKHHLIjc6JKH90JbBvkiTuvTdlG4aUubVMOZfwg.PNG.fover32/image.png?type=w966)
 
 그림 4) Info.plist
 
@@ -81,7 +81,7 @@ Info.plist 파일을 보면 Application Scene Manifest -> Scene Configuration ->
 
 
 
-4. SceneDelegate 수정
+1. SceneDelegate 수정
 
 이제 SceneDelegate.swift 에서 내용을 추가해야합니다! 여기서 iOS 13 버전 이후에서 달라진 점입니다. 그 전에는 AppDelegate.swift 파일을 수정했지만 iOS 13 이후에는 SceneDelegate에서 코드를 추가해야 하더라고요... 왜 안되지 하면서 2시간 동안 헤맸던거 같습니다.😂
 
@@ -128,7 +128,7 @@ scene(_ scene: session: connectionOptions:) 함수에 위와 같은 코드를 �
 
 
 
-![img](https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w1)
+![img](http://postfiles12.naver.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w966)
 
 현재 창을 표시하고 같은 수준 이하의 다른 모든 창 앞에 배치하는 메소드입니다!
 
@@ -150,8 +150,6 @@ ViewController.swift에는 간단하게 backgroundColor만 넣어주시고 시�
 
 다음 글은 UITabBarController를 코드로 작성하는 방법을 포스팅할 예정입니다!
 
-
-
 감사합니다!
 
-﻿
+뿅 🤭
