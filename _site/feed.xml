@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T16:08:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GAENG2iOS BLOG</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T16:08:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GAENG2iOS BLOG</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다. 
 SWMaestro 11th Mentee
 Email: gaeng1107@gmail.com
 Github: https://github.com/g4eng
@@ -111,12 +111,4 @@ LinkedIn: https://www.linkedin.com/in/g4eng/</subtitle><author><name>GAENG2</nam
 
 &lt;p&gt;감사합니다!&lt;/p&gt;
 
-&lt;p&gt;﻿&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!</summary></entry><entry><title type="html">github.io 블로그 시작하기</title><link href="http://localhost:4000/blog/test/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T22:06:00+09:00</updated><id>http://localhost:4000/blog/test</id><content type="html" xml:base="http://localhost:4000/blog/test/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.&lt;/p&gt;
-
-&lt;p&gt;Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.&lt;/p&gt;
-
-&lt;p&gt;YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 github.io 블로그 시작하기이고
-마지막으로 수정된 시간은 2020-10-27 08:06:00 -0500이다.&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.</summary></entry></feed>
+&lt;p&gt;﻿&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!</summary></entry></feed>
