@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "GAENG2iOS BLOG"
+title                    : "Gaeng2iOS"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GAENG2"
-description              : "디자인과 iOS 개발을 공부하는 사람입니다. \nSWMaestro 11th Mentee\nEmail: gaeng1107@gmail.com\nGithub: https://github.com/g4eng\nBlog: https://g4eng.github.io/\nLinkedIn: https://www.linkedin.com/in/g4eng/"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "디자인과 iOS 개발을 공부하는 사람입니다."
+url                      : "https://g4eng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "g4eng/g4eng.github.io"
+teaser                   : "/assets/images/Macintosh_128k_transparency.png"
+logo                     : "/assets/images/gaeng-removebg.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,12 +96,12 @@ author:
   name             : "GAENG2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "디자인과 iOS 개발을 공부하는 사람입니다."
-  location         : "Somewhere"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:gaeng2@kakao.com"
+      url: "mailto:gaeng2@kakao.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://g4eng.github.io"
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/g4eng"
+      url: "https://github.com/g4eng"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/gaeng2y"
+      url: "https://instagram.com/gaeng2cook"
 
 # Site Footer
 footer:
