@@ -1,12 +1,11 @@
 ---
-title:  "[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!"
+title:  "UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!"
 excerpt: "내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!"
 
 categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2020-10-27T08:06:00-05:00
 ---
 
 
@@ -139,11 +138,7 @@ scene(_ scene: session: connectionOptions:) 함수에 위와 같은 코드를 �
 
 ViewController.swift에는 간단하게 backgroundColor만 넣어주시고 시뮬레이터를 통해 확인해보면!
 
-
-
-전송중...
-
-사진 설명을 입력하세요.
+![](http://postfiles13.naver.net/MjAyMDEwMDlfMjE4/MDAxNjAyMjUzMjI4NDY5.cn_BVkOlFqgdUamU4dY5S_D9Kvg-yx-aqQ5Y-Vj8IGAg.IurIKJn-C9tZvrvOcjHjv0vRDizcof6xKdZSEoYPQDAg.PNG.fover32/image.png?type=w966)
 
 이렇게 인터페이스 빌더 없이 코드로만 만들 수 있습니다!
 
