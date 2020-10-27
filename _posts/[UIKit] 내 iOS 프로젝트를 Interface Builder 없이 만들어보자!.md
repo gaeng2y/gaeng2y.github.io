@@ -1,4 +1,14 @@
 ﻿
+---
+title:  "[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!"
+excerpt: "내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2019-04-13T08:06:00-05:00
+---
 
 안녕하세요! 갱입니다.
 
