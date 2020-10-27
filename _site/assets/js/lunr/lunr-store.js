@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Blog"],
         "url": "http://localhost:4000/blog/first-post/",
         "teaser": "http://localhost:4000/git/assets/images/memoji.png"
+      },{
+        "title": "[UIKit] UITabBarController를 코드로 만들어보자!",
+        "excerpt":"안녕하세요 갱입니다. 🤔   네이버에서 Github Pages로 옮겼는데 그 이유는 커밋을 좀 더 자주하기 위해서…?   소마 프로젝트가 막바지로 들어가고 있는데 저는 이제 60퍼 정도 완성되어가고 있어요…   ","categories": ["Blog"],
+        "tags": ["Blog"],
+        "url": "http://localhost:4000/blog/tabbar/",
+        "teaser": "http://localhost:4000/git/assets/images/memoji.png"
       }]
