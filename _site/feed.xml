@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T16:44:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gaeng2iOS</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다.</subtitle><author><name>GAENG2</name></author><entry><title type="html">[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="[UIKit] 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T22:06:00+09:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/">&lt;p&gt;안녕하세요! 갱입니다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-28T02:03:54+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gaeng2iOS</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다.</subtitle><author><name>GAENG2</name></author><entry><title type="html">UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/">&lt;p&gt;안녕하세요! 갱입니다.&lt;/p&gt;
 
 &lt;p&gt;iOS 개발을 주제로 블로그를 하게 됐습니다. 😆&lt;/p&gt;
 
@@ -24,7 +24,7 @@
   &lt;li&gt;우선 프로젝트 내에 있는 Main.storyboard 파일을 지워주세요!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w1&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles4.naver.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 1) Main.storyboard 파일 지우기&lt;/p&gt;
 
@@ -32,11 +32,11 @@
   &lt;li&gt;그림 2에 표시되어 있는 부분의 내용을 지워주세요!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://blogfiles.pstatic.net/MjAyMDEwMDlfMzYg/MDAxNjAyMjUyMzMwNzIy.yjOMCrdXRTzxqYjDfZbrm6-_GtjYLiJ8_IymshxDQ9og.-ukC3WFjGoXuhmLARM5_zSdCMu7an4eXNW8G3NnZxdgg.PNG.fover32/image.png?type=w1&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles4.naver.net/MjAyMDEwMDlfMzYg/MDAxNjAyMjUyMzMwNzIy.yjOMCrdXRTzxqYjDfZbrm6-_GtjYLiJ8_IymshxDQ9og.-ukC3WFjGoXuhmLARM5_zSdCMu7an4eXNW8G3NnZxdgg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 2) 삭제 전&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://blogfiles.pstatic.net/MjAyMDEwMDlfMjMz/MDAxNjAyMjUyMzQ5NzY3.goAULD1Fb02XmSxPhi_5-SmFZawC3r1fF4pU2DL1aEsg.fRlt-MPvMamxzNZV-Ae5KTVXmeKlW_lG2QKVt8Pd6_cg.PNG.fover32/image.png?type=w1&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles8.naver.net/MjAyMDEwMDlfMjMz/MDAxNjAyMjUyMzQ5NzY3.goAULD1Fb02XmSxPhi_5-SmFZawC3r1fF4pU2DL1aEsg.fRlt-MPvMamxzNZV-Ae5KTVXmeKlW_lG2QKVt8Pd6_cg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 3) 삭제 후&lt;/p&gt;
 
@@ -44,7 +44,7 @@
   &lt;li&gt;Info.plist 에 가서 관련 내용을 삭제한다.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://blogfiles.pstatic.net/MjAyMDEwMDlfNCAg/MDAxNjAyMjUyNDUwOTE0.m4SMIt59GAbsDRtK--IZPLAptImpG5zgCEefhXeqCdgg._Kn7ntKHHLIjc6JKH90JbBvkiTuvTdlG4aUubVMOZfwg.PNG.fover32/image.png?type=w1&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles10.naver.net/MjAyMDEwMDlfNCAg/MDAxNjAyMjUyNDUwOTE0.m4SMIt59GAbsDRtK--IZPLAptImpG5zgCEefhXeqCdgg._Kn7ntKHHLIjc6JKH90JbBvkiTuvTdlG4aUubVMOZfwg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 4) Info.plist&lt;/p&gt;
 
@@ -88,15 +88,13 @@
 
 &lt;p&gt;해당 함수의 Apple Dev Documation을 살펴보면&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://blogfiles.pstatic.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w1&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles12.naver.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;현재 창을 표시하고 같은 수준 이하의 다른 모든 창 앞에 배치하는 메소드입니다!&lt;/p&gt;
 
 &lt;p&gt;ViewController.swift에는 간단하게 backgroundColor만 넣어주시고 시뮬레이터를 통해 확인해보면!&lt;/p&gt;
 
-&lt;p&gt;전송중…&lt;/p&gt;
-
-&lt;p&gt;사진 설명을 입력하세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://postfiles13.naver.net/MjAyMDEwMDlfMjE4/MDAxNjAyMjUzMjI4NDY5.cn_BVkOlFqgdUamU4dY5S_D9Kvg-yx-aqQ5Y-Vj8IGAg.IurIKJn-C9tZvrvOcjHjv0vRDizcof6xKdZSEoYPQDAg.PNG.fover32/image.png?type=w966&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이렇게 인터페이스 빌더 없이 코드로만 만들 수 있습니다!&lt;/p&gt;
 
@@ -106,8 +104,216 @@
 
 &lt;p&gt;감사합니다!&lt;/p&gt;
 
-&lt;p&gt;﻿&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!</summary></entry><entry><title type="html">[UIKit] UITabBarController를 코드로 만들어보자!</title><link href="http://localhost:4000/blog/tabbar/" rel="alternate" type="text/html" title="[UIKit] UITabBarController를 코드로 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T22:06:00+09:00</updated><id>http://localhost:4000/blog/tabbar</id><content type="html" xml:base="http://localhost:4000/blog/tabbar/">&lt;p&gt;안녕하세요 갱입니다. 🤔&lt;/p&gt;
+&lt;p&gt;뿅 🤭&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">내 프로젝트를 무거운 Interface Builder 없이 코드로 구현해보자!</summary></entry><entry><title type="html">UIKit) UITabBarController를 코드로 만들어보자!</title><link href="http://localhost:4000/blog/tabbar/" rel="alternate" type="text/html" title="UIKit) UITabBarController를 코드로 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/tabbar</id><content type="html" xml:base="http://localhost:4000/blog/tabbar/">&lt;p&gt;안녕하세요 갱입니다. 🤔&lt;/p&gt;
 
 &lt;p&gt;네이버에서 Github Pages로 옮겼는데 그 이유는 커밋을 좀 더 자주하기 위해서…?&lt;/p&gt;
 
-&lt;p&gt;소마 프로젝트가 막바지로 들어가고 있는데 저는 이제 60퍼 정도 완성되어가고 있어요…&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">이 블로그만 따라오면 IB는 이제 안녕!</summary></entry></feed>
+&lt;p&gt;소마 프로젝트가 막바지로 들어가고 있는데 저는 이제 60퍼 정도 완성되어가고 있어요…&lt;/p&gt;
+
+&lt;p&gt;코로나때문에 센터에는 몇번 가보지도 못하고… 센터 책상을 써본게 손에 꼽을 정도에요…&lt;/p&gt;
+
+&lt;p&gt;이렇게 저의 소마 생활이 끝나게 될 것 같아요… 다음 12기 연수생분들은 꼭 센터를 사용할 수 있기를 바래요!!!!!&lt;/p&gt;
+
+&lt;p&gt;아무튼 이만 각설하고!!&lt;/p&gt;
+
+&lt;p&gt;오늘의 본 내용인 UITabBarController를 Interface Builder 없이 코드로 만들어보기를 하겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;uitabbarcontroller&quot;&gt;UITabBarController&lt;/h2&gt;
+
+&lt;p&gt;UITabBarController에 대한 애플 문서에서의 정의를 먼저 보고 가죠&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/tabbarcon_define.png&quot; alt=&quot;define&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;멀티셀렉션 인터페이스를 관리하는 컨테이너 뷰 컨트롤러로, 선택 항목에 따라 표시할 자식 뷰 컨트롤러가 결정된다.
+라고 합니다!&lt;/p&gt;
+
+&lt;p&gt;가장 대표적인 앱으로는 시계 앱이 있죠.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/clock.PNG&quot; alt=&quot;clock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;하단에 있는 탭을 통해 자식 뷰 컨트롤러로 이동하죠&lt;/p&gt;
+
+&lt;p&gt;Interface Builder를 통해 만드는 방법은 여러 블로그에 많은 분들이 게시해주셨으며 
+코드를 통해 구현하는 방법을 찾으시는 분들은 아실거라고 생각하기 때문에 바로 코드로 구현하는 방법으로 넘어 가겠습니다!&lt;/p&gt;
+
+&lt;p&gt;우선 이전 글에서 사용했던 프로젝트를 다시 사용하겠습니다!&lt;/p&gt;
+
+&lt;p&gt;이 글을 먼저 보고 계신 분이 있다면? &lt;a href=&quot;https://g4eng.github.io/blog/first-post/&quot;&gt;이전 글&lt;/a&gt;을 읽고 오시면 더 빠르게 진행할 수 있을겁니다!&lt;/p&gt;
+
+&lt;h3 id=&quot;1-scenedelegate&quot;&gt;1. SceneDelegate&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://g4eng.github.io/blog/first-post/&quot;&gt;이전 글&lt;/a&gt;을 보셨거나 스토리보드를 없애는 방법을 아시는 분들이고 iOS 13 이상이 타깃인 프로젝트라면 SceneDelegate에서 
+func scene(_ scene:,willConnectTo:,options:) 함수 선언 부분에&lt;/p&gt;
+
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;scene&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;scene&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIScene&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;willConnectTo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UISceneSession&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;options&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;connectionOptions&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIScene&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;ConnectionOptions&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// If using a storyboard, the `window` property will automatically be initialized and attached to the scene.&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;guard&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;windowScene&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;scene&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as?&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIWindowScene&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIWindow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;windowScene&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coordinateSpace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bounds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;windowScene&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;windowScene&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rootViewController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;ViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;makeKeyAndVisible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;위와 같이 선언되어 있을겁니다.&lt;/p&gt;
+
+&lt;p&gt;SceneDelegate를 수정해서 추가하는 방법은 차후에 포스팅하겠습니다!&lt;/p&gt;
+
+&lt;h3 id=&quot;2-uitabbarcontroller-인스턴스-상수-생성&quot;&gt;2. UITabBarController 인스턴스 상수 생성&lt;/h3&gt;
+
+&lt;p&gt;여기서 우리는 UITabBarController를 만들고 자식 뷰 컨트롤러들을 연결해줘야겠죠?&lt;/p&gt;
+
+&lt;p&gt;우선 프로젝트에 하위 뷰 컨트롤러로 사용할 파일을 만들어줍니다!
+저는 firstVC, secondVC로 만들겠습니다. 이름은 각자의 맘대로 지정해주셔도 되고요! 👌🏻&lt;/p&gt;
+
+&lt;p&gt;기존의 ViewController를 살펴보겠습니다.&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;ViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIViewController&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Do any additional setup after loading the view.&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backgroundColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;이제 TabBarController로 만들어보겠습니다. 우선 UITabBarController 인스턴스 상수를 생성한 후 viewDidLoad()에서 view.addSubview()의 인자로 tabBarCon.view를 넣어주고 뷰를 추가해줍니다.&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;ViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIViewController&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tabBarCon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Do any additional setup after loading the view.&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backgroundColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addSubview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;그 후 createTabBarController() 라는 함수를 선언해줍니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;createTabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tintColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewControllers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;전체 코드를 살펴보면 간단합니다!&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;ViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIViewController&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tabBarCon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Do any additional setup after loading the view.&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backgroundColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addSubview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;nf&quot;&gt;createTabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    
+    &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;createTabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tintColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewControllers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;작성 후 실행하면 아래와 같은 그림으로 나올 것입니다!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/tabbar_create.png&quot; alt=&quot;tabbar_create&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-tabbar에-viewcontroller-추가&quot;&gt;3. TabBar에 ViewController 추가&lt;/h3&gt;
+
+&lt;p&gt;하지만 뭔가 이상하죠? 🧐 뭔가 빈 거 같은데?
+네 탭바만 있고 탭은 없습니다… 그러면 우리는 이제 탭을 추가해야겠죠&lt;/p&gt;
+
+&lt;p&gt;UIViewController 인스턴스를 상수로 선언하고 탭바에 추가하는 방법도 있지만 저는 실제 사용했던 파일을 추가해서 탭바에 추가하는 방식으로 만들어보겠습니다.
+우선 FirstViewController.swift 파일을 생성하고 해당 파일에&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIKit&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;FirstViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIViewController&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backgroundColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;systemPurple&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;First&quot;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;코드를 추가해주고 SecondViewController.swift 파일을 생성하고&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIKit&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;SecondViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIViewController&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        
+        &lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backgroundColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;systemGreen&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Second&quot;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;를 추가해줍니다. 그 후 다시 ViewController.swift로 돌아와 선언했던 createTabBarController()에 아래 코드를 추가합니다.&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;createTabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tabBarCon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tintColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+        
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;firstVC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;FirstViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;firstVC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;tabBarSystemItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;contacts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;secondVC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;SecondViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;secondVC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;tabBarSystemItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bookmarks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewControllers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;firstVC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;secondVC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+        
+    &lt;span class=&quot;k&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addSubview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;그리고 다시 코드를 실행해보면?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/add_tab.png&quot; alt=&quot;add_tab&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;짜잔 탭이 추가되었습니다!&lt;/p&gt;
+
+&lt;h3 id=&quot;4-uinavgationcontroller-추가&quot;&gt;4. UINavgationController 추가&lt;/h3&gt;
+
+&lt;p&gt;이런 식으로 탭이 추가되지만 우리가 정한 title이 제대로 나오지 않는 것을 볼 수 있습니다… 😡
+왜냐하면 title은 UINavgationController로 선언해야 생기는 프로퍼티기 때문입니다! 
+그래서 저희는 First, SecondViewController를 UINavigationController(rootViewController:) 인스턴스를 생성하면서 rootViewController 인자에 각각 맞는 ViewController를 넣어줍니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;createTabBarController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tintColor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;firstVC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UINavigationController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;rootViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;FirstViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;firstVC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;tabBarSystemItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;contacts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;secondVC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UINavigationController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;rootViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;SecondViewController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;secondVC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tabBarItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UITabBarItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;tabBarSystemItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;topRated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;tabBarCon&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewControllers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;firstVC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;secondVC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;이렇게 코드를 수정 후 실행해보면?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/suc_tab1.png&quot; alt=&quot;suc_tab1&quot; /&gt; &lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/suc_tab2.png&quot; alt=&quot;suc_tab2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이렇게 탭바 컨트롤러가 완성됩니다!&lt;/p&gt;
+
+&lt;p&gt;다음은 어떤 글을 올릴지는 주제를 정하지는 않았지만 제가 며칠을 고민하던 버튼 토글에 대한 내용 혹은 코드로 개발하는 내용을 포스트할 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;그럼 읽어주셔서 감사합니다!&lt;/p&gt;
+
+&lt;p&gt;갱바 👐🏻&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;참고:&lt;/p&gt;
+
+&lt;p&gt;https://developer.apple.com/documentation/uikit/uitabbarcontroller&lt;/p&gt;</content><author><name>GAENG2</name></author><category term="Blog" /><category term="Blog" /><summary type="html">이 블로그만 따라오면 IB는 이제 안녕!</summary></entry></feed>
