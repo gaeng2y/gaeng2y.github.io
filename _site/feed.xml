@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-28T02:13:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gaeng2iOS</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다.</subtitle><author><name>GAENG2</name></author><entry><title type="html">UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!</title><link href="http://localhost:4000/blog/1/" rel="alternate" type="text/html" title="UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/1</id><content type="html" xml:base="http://localhost:4000/blog/1/">&lt;p&gt;안녕하세요! 갱입니다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-28T12:27:25+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gaeng2iOS</title><subtitle>디자인과 iOS 개발을 공부하는 사람입니다.</subtitle><author><name>GAENG2</name></author><entry><title type="html">UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!</title><link href="http://localhost:4000/blog/1/" rel="alternate" type="text/html" title="UIKit) 내 iOS 프로젝트를 Interface Builder 없이 만들어보자!" /><published>2020-10-27T00:00:00+09:00</published><updated>2020-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/1</id><content type="html" xml:base="http://localhost:4000/blog/1/">&lt;p&gt;안녕하세요! 갱입니다.&lt;/p&gt;
 
 &lt;p&gt;iOS 개발을 주제로 블로그를 하게 됐습니다. 😆&lt;/p&gt;
 
@@ -24,7 +24,7 @@
   &lt;li&gt;우선 프로젝트 내에 있는 Main.storyboard 파일을 지워주세요!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles4.naver.net/MjAyMDEwMDlfMTI4/MDAxNjAyMjUyMDEzMjEy.8zXeXTXLrAk5_m5fy9E9Hzb6krs6CBWpYi9yJb6MB2Ig.YPDoIq0U44CS4AKy5VYwbV03nYu96-7zWF7yiBb7oFYg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/1.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 1) Main.storyboard 파일 지우기&lt;/p&gt;
 
@@ -32,11 +32,11 @@
   &lt;li&gt;그림 2에 표시되어 있는 부분의 내용을 지워주세요!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles4.naver.net/MjAyMDEwMDlfMzYg/MDAxNjAyMjUyMzMwNzIy.yjOMCrdXRTzxqYjDfZbrm6-_GtjYLiJ8_IymshxDQ9og.-ukC3WFjGoXuhmLARM5_zSdCMu7an4eXNW8G3NnZxdgg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/2.png&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 2) 삭제 전&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles8.naver.net/MjAyMDEwMDlfMjMz/MDAxNjAyMjUyMzQ5NzY3.goAULD1Fb02XmSxPhi_5-SmFZawC3r1fF4pU2DL1aEsg.fRlt-MPvMamxzNZV-Ae5KTVXmeKlW_lG2QKVt8Pd6_cg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/3.png&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 3) 삭제 후&lt;/p&gt;
 
@@ -44,7 +44,7 @@
   &lt;li&gt;Info.plist 에 가서 관련 내용을 삭제한다.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles10.naver.net/MjAyMDEwMDlfNCAg/MDAxNjAyMjUyNDUwOTE0.m4SMIt59GAbsDRtK--IZPLAptImpG5zgCEefhXeqCdgg._Kn7ntKHHLIjc6JKH90JbBvkiTuvTdlG4aUubVMOZfwg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/4.png&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그림 4) Info.plist&lt;/p&gt;
 
@@ -88,13 +88,13 @@
 
 &lt;p&gt;해당 함수의 Apple Dev Documation을 살펴보면&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles12.naver.net/MjAyMDEwMDlfMTI1/MDAxNjAyMjU0NDA2NjU0.JuogL8Gqz_Ps36ebPodvp5iyYr9vzH461C7Wa7YQeVwg.M0VYN36np3nIky7muNGZbH04eedh_7ecNfrOWmksZqAg.PNG.fover32/image.png?type=w966&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/5.png&quot; alt=&quot;5&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;현재 창을 표시하고 같은 수준 이하의 다른 모든 창 앞에 배치하는 메소드입니다!&lt;/p&gt;
 
 &lt;p&gt;ViewController.swift에는 간단하게 backgroundColor만 넣어주시고 시뮬레이터를 통해 확인해보면!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles13.naver.net/MjAyMDEwMDlfMjE4/MDAxNjAyMjUzMjI4NDY5.cn_BVkOlFqgdUamU4dY5S_D9Kvg-yx-aqQ5Y-Vj8IGAg.IurIKJn-C9tZvrvOcjHjv0vRDizcof6xKdZSEoYPQDAg.PNG.fover32/image.png?type=w966&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/1/6.png&quot; alt=&quot;6&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이렇게 인터페이스 빌더 없이 코드로만 만들 수 있습니다!&lt;/p&gt;
 
@@ -122,14 +122,14 @@
 
 &lt;p&gt;UITabBarController에 대한 애플 문서에서의 정의를 먼저 보고 가죠&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/tabbarcon_define.png&quot; alt=&quot;define&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2/tabbarcon_define.png&quot; alt=&quot;define&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;멀티셀렉션 인터페이스를 관리하는 컨테이너 뷰 컨트롤러로, 선택 항목에 따라 표시할 자식 뷰 컨트롤러가 결정된다.
 라고 합니다!&lt;/p&gt;
 
 &lt;p&gt;가장 대표적인 앱으로는 시계 앱이 있죠.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/clock.PNG&quot; alt=&quot;clock&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2/clock.PNG&quot; alt=&quot;clock&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;하단에 있는 탭을 통해 자식 뷰 컨트롤러로 이동하죠&lt;/p&gt;
 
@@ -227,7 +227,7 @@ func scene(_ scene:,willConnectTo:,options:) 함수 선언 부분에&lt;/p&gt;
 
 &lt;p&gt;작성 후 실행하면 아래와 같은 그림으로 나올 것입니다!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/tabbar_create.png&quot; alt=&quot;tabbar_create&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2/tabbar_create.png&quot; alt=&quot;tabbar_create&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;3-tabbar에-viewcontroller-추가&quot;&gt;3. TabBar에 ViewController 추가&lt;/h3&gt;
 
@@ -277,7 +277,7 @@ func scene(_ scene:,willConnectTo:,options:) 함수 선언 부분에&lt;/p&gt;
 
 &lt;p&gt;그리고 다시 코드를 실행해보면?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/add_tab.png&quot; alt=&quot;add_tab&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2/add_tab.png&quot; alt=&quot;add_tab&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;짜잔 탭이 추가되었습니다!&lt;/p&gt;
 
@@ -302,7 +302,7 @@ func scene(_ scene:,willConnectTo:,options:) 함수 선언 부분에&lt;/p&gt;
 
 &lt;p&gt;이렇게 코드를 수정 후 실행해보면?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/suc_tab1.png&quot; alt=&quot;suc_tab1&quot; /&gt; &lt;img src=&quot;http://localhost:4000/assets/images/201027-tab/suc_tab2.png&quot; alt=&quot;suc_tab2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2/suc_tab1.png&quot; alt=&quot;suc_tab1&quot; /&gt; &lt;img src=&quot;http://localhost:4000/assets/images/2/suc_tab2.png&quot; alt=&quot;suc_tab2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이렇게 탭바 컨트롤러가 완성됩니다!&lt;/p&gt;
 
