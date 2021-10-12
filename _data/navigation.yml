@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Github"
-    url: https://g4eng.github.com/
-  - title: "Swift Documentation"
-    url: https://swift.org/
-  - title: "Apple Developer"
-    url: https://developer.apple.com
+  - title: "카테고리"
+    url: /categories/
+  - title: "포스트:
+    url: /posts/
