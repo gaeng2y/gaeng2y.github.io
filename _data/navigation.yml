@@ -2,5 +2,5 @@
 main:
   - title: "카테고리"
     url: /categories/
-  - title: "포스트:
+  - title: "포스트"
     url: /posts/
