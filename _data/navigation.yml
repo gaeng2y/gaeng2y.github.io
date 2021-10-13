@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "카테고리"
+  - title: "Category"
     url: /categories/
-  - title: "포스트"
+  - title: "Posts"
     url: /posts/
+  - title: "Tag"
+    url: /tags/
