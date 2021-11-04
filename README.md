@@ -273,3 +273,4 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 # Gaeng2iOS
 
 Github Pages
+blog
