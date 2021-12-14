@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
 Sitemap: https://g4eng.github.io/sitemap.xml
